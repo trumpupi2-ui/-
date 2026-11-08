@@ -1,0 +1,6 @@
+{
+  "name": "Бремя Власти: Молодая Республика",
+  "description": "Текстовая военно-политическая стратегия: управление нестабильной молодой республикой, баланс ресурсов и фракций, множество концовок.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
